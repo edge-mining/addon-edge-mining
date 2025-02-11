@@ -44,7 +44,7 @@ Follow these instructions to create a mining setup integrated with Home Assistan
 
 Before you begin, make sure you have the following:
 - **Raspberry Pi 4** (or a dedicated device) with **Home Assistant** and **HACS** installed ([HACS installation guide](https://www.hacs.xyz/docs/use/download/download/#to-download-hacs)).
-- **Compatible inverter**: Voltronic, Axpert, Mppsolar PIP, Voltacon, or Effekta.
+- **Compatible inverter**: Voltronic, Axpert, Mppsolar PIP, Voltacon or Effekta. Soon to be compatible with Solaredge as well.
 - **ASIC miner** running **BraiinsOS** ([BraiinsOS installation guide](https://braiins.com/os-firmware)).
 
 ### Install `edge-mining` addon on your home assistant istance 📥
